@@ -1,3 +1,5 @@
+
+![Data Scientist](https://github.com/IsraelMaya/IsraelMaya/assets/155283416/30e87e59-f40c-4fca-a299-878b40b390cb)
 ## Un poco sobre mi:
 
 - 👋 Hola mi nombres es @IsraelMaya.
