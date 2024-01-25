@@ -1,11 +1,13 @@
-Un poco sobre mi:
+## Un poco sobre mi:
+
 - 👋 Hola mi nombres es @IsraelMaya.
 - 👀 Estoy interesado en el análisis de Bases de Datos.
 - 🌱 Acabo de terminar un Bootcamp en Triple Ten para ser un Data Scientist.
 - 💞️ Quiero ser de gran contribución para la empresa que me empleé, de acuerdo a mis nuevos conocimientos y viejas habilidades.
 - ⚡ Cursiodiades: Estudié Física y estoy en un proyecto musical.
 
-Lenguajes y herramientas: 
+## Lenguajes y herramientas: 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
